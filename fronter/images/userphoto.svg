@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #ea5045;
+      }
+
+      .cls-2 {
+        fill: #ea5045;
+      }
+
+      .cls-3 {
+        stroke: #f2f2f2;
+        stroke-width: 0.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="userphoto" transform="translate(-11 -180)">
+    <g id="Ellipse_10" data-name="Ellipse 10" class="cls-1" transform="translate(11 180)">
+      <circle class="cls-4" cx="24.5" cy="24.5" r="24.5"/>
+      <circle class="cls-5" cx="24.5" cy="24.5" r="24"/>
+    </g>
+    <path id="Path_10" data-name="Path 10" class="cls-2" d="M11.274,6.391c.069,0,6.387,0,6.683,0l.326.008C28.115,6.309,34.263,17,32.3,19.2c-2.82,4.519-8.452,7.45-17.092,7.45s-17.9-5.255-17.738-8.49S2.634,6.391,11.274,6.391Z" transform="translate(20.608 201.654)"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" class="cls-2" d="M-1262.086,53.827A9.925,9.925,0,0,1-1272,43.914,9.925,9.925,0,0,1-1262.086,34a9.925,9.925,0,0,1,9.913,9.914A9.925,9.925,0,0,1-1262.086,53.827Zm4.956-13.631c-.683,0-1.239.834-1.239,1.859s.556,1.859,1.239,1.859,1.239-.834,1.239-1.859S-1256.447,40.2-1257.13,40.2Zm-9.914,0c-.683,0-1.239.834-1.239,1.858s.556,1.859,1.239,1.859,1.239-.834,1.239-1.859S-1266.36,40.2-1267.043,40.2Z" transform="translate(1298.087 153.087)"/>
+    <path id="Path_11" data-name="Path 11" class="cls-3" d="M0,0A7.037,7.037,0,0,0,3.159,1.006,6.288,6.288,0,0,0,6.2,0" transform="translate(32.902 201.337)"/>
+  </g>
+</svg>

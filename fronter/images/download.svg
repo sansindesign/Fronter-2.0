@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.803 9.857">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.71;
+      }
+
+      .cls-2 {
+        fill: #6c6c6c;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #707070;
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="download" transform="translate(-31 -410.562)">
+    <g id="Group_19" data-name="Group 19" class="cls-1" transform="translate(-9 114.062)">
+      <g id="Path_22" data-name="Path 22" class="cls-2" transform="translate(40 293.455)">
+        <path class="cls-4" d="M 4.901685237884521 12.19458389282227 L 1.207096934318542 8.500002861022949 L 8.596273422241211 8.500002861022949 L 4.901685237884521 12.19458389282227 Z"/>
+        <path class="cls-5" d="M 2.414218902587891 9.000002861022949 L 4.901685237884521 11.48746395111084 L 7.389151573181152 9.000002861022949 L 2.414218902587891 9.000002861022949 M -4.76837158203125e-06 8.000002861022949 L 9.803375244140625 8.000002861022949 L 4.901685237884521 12.90168285369873 L -4.76837158203125e-06 8.000002861022949 Z"/>
+      </g>
+      <line id="Line_9" data-name="Line 9" class="cls-3" y2="6.607" transform="translate(44.955 296.5)"/>
+    </g>
+  </g>
+</svg>

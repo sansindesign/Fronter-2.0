@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Sander's form page" content="sander's basic html page">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title>SanSin Design</title>
+</head>
+
+<body>
+    <header class="header">
+        <a href="main.html" class="logo">
+            <img src="images/logo-white.svg" alt="fronter 2.0 logo">
+        </a>
+        <input type="checkbox" id="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label"><span></span></label>
+        <nav class="grid-nav">
+            <ul>
+                <li><a href="group.html">Group 8 (w. Sander, Ruta, Tabea)</a></li>
+                <li><a href="">MMD 2018 INT GROUP</a></li>
+                <li><a href="">Student Info</a></li>
+                <li><a href="">Settings</a></li>
+                <li><a href="index.html">Sign out</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main">
+        <table class="user-icon-profile">
+            <tr>
+                <td style="width:55px"><img src="images/group-pic.svg" alt="group photo" class="profile-pic"></td>
+                <td>
+                    <article>
+                        <p class="username">Group 8</p>
+                        <p class="text">4 members</p>
+                    </article>
+                </td>
+            </tr>
+        </table>
+
+        <div class="add-post">
+            <p>Share something with your groupmates…</p>
+            <div class="images">
+                <img src="images/attachment-grey.svg" alt="attachment logo">
+                <img src="images/camera-gray.svg" alt="take photo logo">
+                <img src="images/add-image-grey.svg" alt="add photo logo">
+            </div>
+        </div>
+        <div class="share-button">
+            <p>SHARE</p>
+        </div>
+
+        <div class="user-post">
+            <table class="user-post-table">
+                <tr class="user-icon-group">
+                    <td style="width: 36px"><img src="images/userphoto.svg" alt="user photo" class="profile-pic"></td>
+                    <td>
+                        <article>
+                            <p class="username">Sander Sinnep</p>
+                            <p class="text">2hrs ago</p>
+                        </article>
+                    </td>
+                    <td style="width: 19px">
+                        <img src="images/unliked.svg" alt="empty heart empoji" class="unliked">
+                    </td>
+                </tr>
+            </table>
+            <article class="text-post">
+                <p>Heya!</p>
+                <p>I uploaded some of the graphics I finished for the project, so you could add them to the animation!</p>
+                <img src="images/download.svg" alt="download icon">
+                <p class="download-text">Image.jpg</p>
+            </article>
+            <table class="comment-section">
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="write-comment">
+                        <p>Write comment...</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="written-comment">
+                        <p class="profile-name">Ruta Celma</p>
+                        <p>Great, I'll add it!</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+        <div class="user-post">
+            <table class="user-post-table">
+                <tr class="user-icon-group">
+                    <td style="width: 36px"><img src="images/userphoto.svg" alt="user photo" class="profile-pic"></td>
+                    <td>
+                        <article>
+                            <p class="username">Tabea Grosel</p>
+                            <p class="text">5hrs ago</p>
+                        </article>
+                    </td>
+                    <td style="width: 19px">
+                        <img src="images/unliked.svg" alt="empty heart empoji" class="unliked">
+                    </td>
+                </tr>
+            </table>
+            <article class="text-post">
+                <p>THANKS FOR ALL THE GOOD WORK TODAY IN CLASS!</p>
+            </article>
+            <table class="comment-section">
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="write-comment">
+                        <p>Write comment...</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="written-comment">
+                        <p class="profile-name">Sander Sinnep</p>
+                        <p>Of course, anytime!!!</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="written-comment">
+                        <p class="profile-name">Ruta Celma</p>
+                        <p>Yes, let's keep this up!</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="user-post">
+            <table class="user-post-table">
+                <tr class="user-icon-group">
+                    <td style="width: 36px"><img src="images/userphoto.svg" alt="user photo" class="profile-pic"></td>
+                    <td>
+                        <article>
+                            <p class="username">Ruta Celma</p>
+                            <p class="text">8hrs ago</p>
+                        </article>
+                    </td>
+                    <td style="width: 19px">
+                        <img src="images/unliked.svg" alt="empty heart empoji" class="unliked">
+                    </td>
+                </tr>
+            </table>
+            <article class="text-post">
+                <p>Hey!</p>
+                <p>Here is the video I mentioned earlier that teaches how to make the that cool transition with CSS. Have a look!</p>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Nloq6uzF8RQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </article>
+            <table class="comment-section">
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="write-comment">
+                        <p>Write comment...</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="written-comment">
+                        <p class="profile-name">Sander Sinnep</p>
+                        <p>Ugh, now I get it!</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/grey-profile.svg" alt="grey profile picture">
+                    </td>
+                    <td class="written-comment">
+                        <p class="profile-name">Tabea Grosel</p>
+                        <p>Thanks, Ruta! That is so useful!!</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </main>
+
+    <footer id="footer">
+        <a href="messages.html" class="icon">
+            <img src="images/CHAT.svg" alt="chat icon">
+        </a>
+        <a href="" class="icon">
+            <img src="images/PROFILE.svg" alt="profile icon">
+        </a>
+        <a href="" class="icon">
+            <img src="images/NOTIFICATION.svg" alt="notification icon">
+        </a>
+    </footer>
+</body>
+
+</html>

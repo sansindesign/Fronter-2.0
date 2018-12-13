@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea5045;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="take-photo" transform="translate(-39 -575)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-1" width="26" height="18" rx="3" transform="translate(39 579)"/>
+    <path id="Rectangle_19" data-name="Rectangle 19" class="cls-1" d="M2,0h8a2,2,0,0,1,2,2V6a0,0,0,0,1,0,0H0A0,0,0,0,1,0,6V2A2,2,0,0,1,2,0Z" transform="translate(46 575)"/>
+    <g id="Ellipse_16" data-name="Ellipse 16" class="cls-2" transform="translate(46 582)">
+      <circle class="cls-3" cx="6" cy="6" r="6"/>
+      <circle class="cls-4" cx="6" cy="6" r="5.5"/>
+    </g>
+  </g>
+</svg>

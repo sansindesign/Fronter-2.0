@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.001 23.011">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #ea5045;
+      }
+
+      .cls-2 {
+        fill: #ea5045;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="add-image" transform="translate(-76.999 -575)">
+    <g id="Rectangle_17" data-name="Rectangle 17" class="cls-1" transform="translate(77 575)">
+      <rect class="cls-3" width="23" height="23" rx="5"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="22" height="22" rx="4.5"/>
+    </g>
+    <path id="Path_12" data-name="Path 12" class="cls-2" d="M10.5,0c6.689-3.941,11.9-.544,12.051,6S16.3,12,10.5,12-.064,10.558,0,6,3.811,3.941,10.5,0Z" transform="translate(77 586)"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-2" cx="2.5" cy="2.5" r="2.5" transform="translate(81 578)"/>
+  </g>
+</svg>

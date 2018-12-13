@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.026 21.278">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ea5045;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #ea5045;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 7px;
+        font-family: HelveticaNeue-Light, Helvetica Neue;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="chat-back" transform="translate(-13.677 -113.906)">
+    <path id="Path_17" data-name="Path 17" class="cls-1" d="M-8.881,19.132l-9.795-9.939L-8.881,0" transform="translate(34.5 115)"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" class="cls-2" cx="5.351" cy="5.734" rx="5.351" ry="5.734" transform="translate(26 119)"/>
+    <text id="_1" data-name="1" class="cls-3" transform="translate(29.058 127)"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

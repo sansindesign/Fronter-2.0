@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.789 16.845">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea5045;
+      }
+    </style>
+  </defs>
+  <g id="liked" transform="translate(-335 -535)">
+    <path id="Path_23" data-name="Path 23" class="cls-1" d="M17.27,13.948,9.013,22.4.756,13.948Z" transform="translate(335.382 529.441)"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" class="cls-1" width="3" height="3" transform="translate(343 542)"/>
+    <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="5.183" cy="5.183" r="5.183" transform="translate(335 535)"/>
+    <path id="Path_24" data-name="Path 24" class="cls-1" d="M5.183,0A5.183,5.183,0,1,1,0,5.183,5.183,5.183,0,0,1,5.183,0Z" transform="translate(343.423 535)"/>
+  </g>
+</svg>
